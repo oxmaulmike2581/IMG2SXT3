@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMG2SXT3", "IMG2SXT3\IMG2SXT3.csproj", "{23E86FF1-FF17-4EE0-940D-D9A62D6F06AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23E86FF1-FF17-4EE0-940D-D9A62D6F06AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E86FF1-FF17-4EE0-940D-D9A62D6F06AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E86FF1-FF17-4EE0-940D-D9A62D6F06AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E86FF1-FF17-4EE0-940D-D9A62D6F06AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23CA732D-FA72-48C3-8490-810F03A2640B}
+	EndGlobalSection
+EndGlobal
